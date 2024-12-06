@@ -1,4 +1,4 @@
-This repository showcases various mini-projects to practice and implement web development skills using HTML, CSS, JavaScript, and front-end frameworks. Each project focuses on specific aspects of front-end development, responsive design, and user interaction.
+
 * HTML and CSS Basics
 Simple Webpage: Create a webpage with a heading, paragraph, and image.
 Basic Form: Design a form with a single input field and a submit button.
